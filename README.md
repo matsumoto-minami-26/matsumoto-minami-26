@@ -12,9 +12,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsumoto-minami-26&langs_count=8" />
 </a>
 
-<!--[START github.com/mii_net_qiita/feedsnippet]-->
+<!-- profile updater begin: qiita -->
 
-<!--[END github.com/mii_net_qiita/feedsnippet]-->
+<!-- profile updater end: qiita -->
   
 <!---
 matsumoto-minami-26/matsumoto-minami-26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
